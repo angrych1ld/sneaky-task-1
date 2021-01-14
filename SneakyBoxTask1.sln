@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoerLib", "DoerLib\DoerLib.csproj", "{81B1E153-B9E4-4A39-B15C-242C60AD9BA3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoerExample", "DoerExample\DoerExample.csproj", "{ED9CC0C5-9EAB-41F1-B8CB-10D99B08166E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81B1E153-B9E4-4A39-B15C-242C60AD9BA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81B1E153-B9E4-4A39-B15C-242C60AD9BA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81B1E153-B9E4-4A39-B15C-242C60AD9BA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81B1E153-B9E4-4A39-B15C-242C60AD9BA3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED9CC0C5-9EAB-41F1-B8CB-10D99B08166E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED9CC0C5-9EAB-41F1-B8CB-10D99B08166E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED9CC0C5-9EAB-41F1-B8CB-10D99B08166E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED9CC0C5-9EAB-41F1-B8CB-10D99B08166E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11295A72-396B-4991-A991-DC4CE6F466E9}
+	EndGlobalSection
+EndGlobal
